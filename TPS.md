@@ -33,7 +33,7 @@ pypy3 multi_cluster.py --num_shards=128 --num_slaves=64 --num_clusters=3 --root_
 
 **Video URL**
 
-[URL for the video showing how you produced the above TPS.]
+https://youtu.be/SlP35jJiG1Q
 
 **Output From `stats` Tool**
 ```
